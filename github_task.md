@@ -1,1 +1,1 @@
-Este es un archivo de asignación
+This is an assignment file
